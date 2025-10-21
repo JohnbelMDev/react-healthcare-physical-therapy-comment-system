@@ -10,7 +10,9 @@ function App() {
       <h1>React Physical Therapy Comment 2025</h1>
       <h2>Welcome to React Physical Therapy Comment 2025</h2>
       <p>This is a sample application to demonstrate a React setup.</p>
-      <form action=""><input type="text" /></form>
+      <p>Leave a Comment</p>
+      <input type="text" placeholder="Your comment here" />
+      <button>Submit</button>
     </div>
   )
 }
